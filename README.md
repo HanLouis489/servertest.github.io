@@ -27,4 +27,3 @@
           <li><a href="https://www.youtube.com/watch?v=Qt2sXTlUWsU&t=4s">2022 Kiten in Mirns</a></li>
           <li><a href="https://www.youtube.com/watch?v=VW7m1teKegk">2022 Gardasee</a></li>
           <li><a href="https://www.youtube.com/watch?v=Orb50AK184Q&t=359s">2022 Camping</a></li>
-        </u2>
