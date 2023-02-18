@@ -21,8 +21,10 @@
   <body>
     <div class="container">
       <h1>Welcome Idiots and behold my POWER</h1>
-      <p>Hier wird in den nachsten wochen eine Website fur fotos und videos entstehen.</p>
-      <a href="https://www.youtube.com/channel/UCFGRftgh_CHIV0ySEzUf6BQ">Click here for more information(YT)</a>
+      <p>Hier wird in den nachsten wochen eine Website fur fotos und videos entstehen</p>
+      <a href="https://www.youtube.com/channel/UCFGRftgh_CHIV0ySEzUf6BQ">Videos</a>
+      <a href="Fotos/">Fotos</a>
+
     </div>
   </body>
 </html>
