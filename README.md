@@ -1,15 +1,29 @@
-# lomakoha.github.io
-ja halt zeug was nen platz braucht
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>My First Website</title>
-        <meta name="description" content="yay!">
-    </head>
-    <body>
-       <hi>BAMBAM!</hi> 
-       <p>
-        naja mal schauen was das alles gibt und wo das hier alles hinfuehrt
-       </p>
-       <a href="file:///C:/Users/Louis/Downloads/homer%20simpson%20real.webp">woooooo></a>
-    </body>
+  <head>
+    <meta charset="utf-8">
+    <title>My Dark Mode Website</title>
+    <style>
+      body {
+        background-color: #1a1a1a;
+        color: #fff;
+      }
+      a {
+        color: #fff;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to my Dark Mode Website</h1>
+      <p>Here's some example text for the site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla auctor risus eu felis molestie, at dapibus sapien luctus.</p>
+      <a href="#">Click here for more information</a>
+    </div>
+  </body>
 </html>
+
