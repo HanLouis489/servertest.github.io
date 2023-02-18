@@ -19,7 +19,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Welcome Idiots and behold my POWER</h1>
+      <h1>Welcome and fear my POWER</h1>
         <p>Hier wird in den nachsten wochen eine Website fur fotos und videos entstehen</p>
       <h2>Videos<h2>
         <u3>
