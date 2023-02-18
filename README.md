@@ -19,7 +19,7 @@
       <div class="container">
         <h1>Welcome and fear my POWER</h1>
           <p>Hier landed random shit
-          von UrlaubsVideos und Bildern zu sonstigem random shit
+          von Urlaubs Videos und Bildern
           </p>
         <h2>Videos<h2>
           <u1>
