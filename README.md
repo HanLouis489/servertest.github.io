@@ -25,9 +25,16 @@
         <a href="https://www.youtube.com/watch?v=kcnmIKwdrXk&t=202s">2022 Portugal</a>
         <a href="https://www.youtube.com/watch?v=Qt2sXTlUWsU&t=4s">2022 Kiten in Mirns</a>
         <a href="https://www.youtube.com/watch?v=VW7m1teKegk">2022 Gardasee</a>
-        <a href="https://www.youtube.com/watch?v=Orb50AK184Q&t=359s">2022 Camping</a>\
-        <br>
-        <br>
+        <a href="https://www.youtube.com/watch?v=Orb50AK184Q&t=359s">2022 Camping</a>
+      
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=kcnmIKwdrXk&t=202s">2022 Portugal</a></li>
+          <li><a href="https://www.youtube.com/watch?v=Qt2sXTlUWsU&t=4s">2022 Kiten in Mirns</a></li>
+          <li><a href="https://www.youtube.com/watch?v=VW7m1teKegk">2022 Gardasee</a></li>
+          <li><a href="https://www.youtube.com/watch?v=Orb50AK184Q&t=359s">2022 Camping</a></li>
+          <li></li>
+        </ul>
+
     </div>
   </body>
 </html>
