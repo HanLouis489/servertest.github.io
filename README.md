@@ -20,10 +20,13 @@
   <body>
     <div class="container">
       <h1>Welcome Idiots and behold my POWER</h1>
-      <p>Hier wird in den nachsten wochen eine Website fur fotos und videos entstehen</p>
-      <a href="https://www.youtube.com/channel/UCFGRftgh_CHIV0ySEzUf6BQ">Videos</a>
-      <p>--------------------<p>
-      <a href="Fotos/">Fotos</a>
+        <p>Hier wird in den nachsten wochen eine Website fur fotos und videos entstehen</p>
+      <h2>Videos<h2>
+        <a href="https://www.youtube.com/watch?v=kcnmIKwdrXk&t=202s">2022 Portugal</a>
+        <a href="https://www.youtube.com/watch?v=Qt2sXTlUWsU&t=4s">2022 Kiten in Mirns</a>
+        <a href="https://www.youtube.com/watch?v=VW7m1teKegk">2022 Gardasee</a>
+        <a href="https://www.youtube.com/watch?v=Orb50AK184Q&t=359s">2022 Camping</a>
+        <a href="Fotos/">Fotos</a>
     </div>
   </body>
 </html>
