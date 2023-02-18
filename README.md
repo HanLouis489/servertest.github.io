@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <meta charset="utf-8">
@@ -25,8 +24,6 @@
       <a href="https://www.youtube.com/channel/UCFGRftgh_CHIV0ySEzUf6BQ">Videos</a>
       <p>--------------------<p>
       <a href="Fotos/">Fotos</a>
-
     </div>
   </body>
 </html>
-
