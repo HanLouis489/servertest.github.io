@@ -10,6 +10,6 @@ ja halt zeug was nen platz braucht
        <p>
         naja mal schauen was das alles gibt und wo das hier alles hinfuehrt
        </p>
-       <a href="file:///C:/Users/Louis/Downloads/homer%20simpson%20real.webp"woooooo></a>
+       <a href="file:///C:/Users/Louis/Downloads/homer%20simpson%20real.webp">woooooo></a>
     </body>
 </html>
