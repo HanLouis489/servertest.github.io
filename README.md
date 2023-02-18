@@ -5,7 +5,7 @@
     <title>My Dark Mode Website</title>
     <style>
       body {
-        background-color: #1a1a1a;
+        background-color: #000000;
         color: #fff;
       }
       a {
