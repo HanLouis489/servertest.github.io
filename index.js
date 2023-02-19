@@ -2,7 +2,7 @@ const wrapper = document.getElementById("tiles");
 
 let columns = 0,
     rows = 0,
-    toggled = false;
+    toggled = true;
 
 const toggle = () => {
   toggled = !toggled;
