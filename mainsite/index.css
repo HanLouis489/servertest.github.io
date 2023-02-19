@@ -80,11 +80,11 @@
   #title {
     color: white;
     font-family: "Rubik", sans-serif;
-    font-size: 6vw;
+    font-size: 4vw;
     margin: 0px;
     pointer-events: none;
     transition: opacity 1200ms ease;
-    width: 50vw;
+    width: 10vw;
     z-index: 3;
   }
   
@@ -110,8 +110,9 @@ body.menu-toggled > .meta-link > span {
   color: rgb(30, 30, 30);
 }
 
+
 #source-link {
-  bottom: 60px;
+  bottom:58%; /*Fotobox hoher verschieben*/
 }
 
 #source-link > i {
@@ -127,16 +128,16 @@ body.menu-toggled > .meta-link > span {
   backdrop-filter: blur(3px);
   background-color: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 6px;
-  bottom: 10px;
+  border-radius: 15px;/*Box rundungen*/
+  bottom: 42%;/*Videobox hochverschieben*/
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
   cursor: pointer;  
   display: inline-flex;
-  gap: 5px;
-  left: 10px;
-  padding: 10px 20px;
-  position: fixed;
+  gap: 10px;/*box langer vor schrift*/
+  left: 45%;/*Box abstand zum linken rand*/
+  padding: 30px 40px;/*Box hohe und breite*/
   text-decoration: none;
+  position: fixed;
   transition: background-color 400ms, border-color 400ms;
   z-index: 10000;
 }
@@ -147,12 +148,12 @@ body.menu-toggled > .meta-link > span {
 }
 
 .meta-link > i, .meta-link > span {
-  height: 20px;
-  line-height: 20px;
+  height: 20px;/*Boxhohe unter schrift*/
+  line-height: 20px;/*schriftabstand zum oberen rand*/
 }
 
 .meta-link > span {
-  color: white;
+  color: rgb(255, 255, 255);/*textfarbe*/
   font-family: "Rubik", sans-serif;
   transition: color 400ms;
 }
